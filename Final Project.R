@@ -1,5 +1,3 @@
-# 4DO3 Final Project
-
 library(tidyverse)
 library(quanteda)
 library(quanteda.corpora)
