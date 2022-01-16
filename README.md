@@ -4,7 +4,7 @@ I'm Seina, and I am 4th-year Cognitive Science of Language student from McMaster
 I enjoy learning languages and analyzing. I'm currently working on R programming as well as python.
 
 ## Project Brief Description
-This project involves carrying out a quantitative corpus analysis using Quanteda, R.
+This project involves carrying out a quantitative corpus analysis (Harry Potter series) using Quanteda, R.
 - Q1 to 6: Analysis of the character development of Voldemort across the book series
 - Part 1: Examination of all the books
 - Part 2: Examination of two books to compare 
