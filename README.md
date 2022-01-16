@@ -6,20 +6,20 @@ I enjoy learning languages and analyzing. I'm currently working on R programming
 ## Project Brief Description
 This project involves carrying out a quantitative corpus analysis (Harry Potter series) using Quanteda, R.
 - Q1 to 6: Analysis of the character development of Voldemort across the book series
-  1. Toknize the corpus
-  2.  Determine the relative frequency
-  3.   Plot the relative frequency
-  4.    Determine the dispersion
-  5.     Determine the frequencies of "Voldemort" and "You-Know-Who" in the first and last book, and also determine the statistic test
-  6.      Determine the 10 concordance lines in the first and last book
+  - Toknize the corpus
+  - Determine the relative frequency
+  - Plot the relative frequency
+  - Determine the dispersion
+  - Determine the frequencies of "Voldemort" and "You-Know-Who" in the first and last book, and also determine the statistic test
+  - Determine the 10 concordance lines in the first and last book
 - Part 1: Examination of all the books
-  1. Determine the readability
-  2.  Determine the length of the each book and lexical diversity
+  - Determine the readability
+  - Determine the length of the each book and lexical diversity
 - Part 2: Examination of two books to compare 
-  3. Determine the keyword analysis
-  4.  Determine the 10 collocations, most frequent and greatest collocation strength
-  5.   Create the wordcloud
-  6.    Create the network plot
+  - Determine the keyword analysis
+  - Determine the 10 collocations, most frequent and greatest collocation strength
+  - Create the wordcloud
+  - Create the network plot
 
 ## Skills / Experiences
 R / Python in Beginner
