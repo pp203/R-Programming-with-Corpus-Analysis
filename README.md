@@ -1,16 +1,16 @@
 ## Project Brief Description
 This project involves carrying out a quantitative corpus analysis (Harry Potter series) using Quanteda, R.
-- 1 to 6: Analysis of the character development of Voldemort across the book series
+- Analysis of the character development of Voldemort across the book series
   - Toknize the corpus
   - Determine the relative frequency
   - Plot the relative frequency
   - Determine the dispersion
   - Determine the frequencies of "Voldemort" and "You-Know-Who" in the first and last book, and also determine the statistic test
   - Determine the 10 concordance lines in the first and last book
-- Part 1: Examination of all the books
+- Examination of all the books
   - Determine the readability
   - Determine the length of the each book and lexical diversity
-- Part 2: Examination of two books to compare 
+-　Examination of two books to compare 
   - Determine the keyword analysis
   - Determine the 10 collocations, most frequent and greatest collocation strength
   - Create the wordcloud
