@@ -1,5 +1,5 @@
 ## Project Brief Description
-This project involves carrying out a quantitative corpus analysis (Harry Potter series) using Quanteda, R.
+This project involves carrying out a quantitative corpus analysis using Quanteda, R.
 - Analysis of the character development of Voldemort across the book series
   - Toknize the corpus
   - Determine the relative frequency
