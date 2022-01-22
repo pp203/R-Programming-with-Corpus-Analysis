@@ -5,7 +5,7 @@ This project involves carrying out a quantitative corpus analysis using Quanteda
   - Determine the relative frequency
   - Plot the relative frequency
   - Determine the dispersion
-  - Determine the frequencies of　the main character's name and his nickname in the first and last book, and also determine the statistic test
+  - Determine the frequencies of the main character's name and his nickname in the first and last book, and also determine the statistic test
   - Determine the 10 concordance lines in the first and last book
 - Examination of all the books
   - Determine the readability
