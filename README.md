@@ -10,7 +10,7 @@ This project involves carrying out a quantitative corpus analysis using Quanteda
 - Examination of all the books
   - Determine the readability
   - Determine the length of the each book and lexical diversity
--　Examination of two books to compare 
+- Examination of two books to compare 
   - Determine the keyword analysis
   - Determine the 10 collocations, most frequent and greatest collocation strength
   - Create the wordcloud
